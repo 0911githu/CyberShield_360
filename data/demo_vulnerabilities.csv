@@ -1,0 +1,6 @@
+org_id,asset_id,title,severity,score,cve,description,status
+org-demo-kenya,,OpenSSH Config Weakness,high,7.8,CVE-2024-12345,SSH service is exposed without restricted admin access controls.,open
+org-demo-kenya,,SMTP Relay Misconfiguration,medium,5.4,CVE-2024-22316,Mail relay allows unauthorised outbound traffic on port 25.,open
+org-demo-kenya,,Unpatched Windows SMB Exposure,high,8.2,CVE-2024-26422,SMB port 445 is reachable and should be restricted to trusted subnets.,open
+org-demo-kenya,,HTTP Portal Without WAF,medium,6.1,CVE-2024-31980,Public web portal is reachable without additional filtering or authentication hardening.,open
+org-demo-kenya,,Telnet Service Enabled,high,9.1,CVE-2023-88000,Telnet is enabled and transmits credentials in plain text.,open

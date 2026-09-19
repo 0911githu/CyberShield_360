@@ -1,0 +1,6 @@
+org_id,asset_id,event_type,severity,source,message,created_at
+org-demo-kenya,,failed_login,high,endpoint,"Multiple failed login attempts detected on an admin workstation.",2026-09-19T08:05:00Z
+org-demo-kenya,,port_scan,medium,network,"A temporary port scan targeted the finance subnet from an untrusted source.",2026-09-19T08:12:00Z
+org-demo-kenya,,malware_alert,critical,security,"Suspicious outbound traffic matched a known malware beacon signature.",2026-09-19T08:18:00Z
+org-demo-kenya,,vulnerability_detected,high,scanner,"Critical service exposure identified on the VPN gateway.",2026-09-19T08:24:00Z
+org-demo-kenya,,policy_violation,medium,compliance,"Guest Wi-Fi traffic was observed crossing into the trusted office VLAN.",2026-09-19T08:31:00Z
