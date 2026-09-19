@@ -1,0 +1,13 @@
+org_id,name,type,environment,owner,ip_address,hostname,criticality,status,monitoring_enabled,scan_interval_minutes,tags,last_seen_at
+org-demo-kenya,DB-SERVER-01,server,production,Infrastructure,10.10.0.11,db-server-01.local,critical,monitored,true,60,"{linux,critical,db}",2026-09-19T08:00:00Z
+org-demo-kenya,APP-SERVER-02,server,production,Engineering,10.10.0.12,app-server-02.local,high,monitored,true,60,"{linux,web,api}",2026-09-19T08:05:00Z
+org-demo-kenya,FILE-SHARE-03,server,production,IT Operations,10.10.0.21,file-share-03.local,high,monitored,true,60,"{windows,storage,critical}",2026-09-19T08:10:00Z
+org-demo-kenya,WORKSTATION-07,endpoint,production,Operations,10.10.0.42,workstation-07.local,medium,monitored,true,60,"{windows,endpoint}",2026-09-19T08:15:00Z
+org-demo-kenya,FINANCE-PC-11,endpoint,production,Finance,10.10.0.44,finance-pc-11.local,medium,monitored,true,60,"{windows,finance}",2026-09-19T08:20:00Z
+org-demo-kenya,CRM-APP-10,application,production,Sales,10.10.0.60,crm-app-10.local,high,monitored,true,60,"{web,crm,app}",2026-09-19T08:25:00Z
+org-demo-kenya,FIREWALL-01,firewall,production,Security,10.10.0.1,fw-01.local,critical,monitored,true,60,"{network,edge,critical}",2026-09-19T08:30:00Z
+org-demo-kenya,PRINTER-09,device,production,Facilities,10.10.0.18,printer-09.local,low,monitored,true,60,"{printer,network}",2026-09-19T08:35:00Z
+org-demo-kenya,EMAIL-SERVER-04,server,production,Infrastructure,10.10.0.31,email-server-04.local,high,monitored,true,60,"{linux,email,mta}",2026-09-19T08:40:00Z
+org-demo-kenya,HR-LAPTOP-06,endpoint,production,People Ops,10.10.0.55,hr-laptop-06.local,medium,monitored,true,60,"{windows,endpoint,user-device}",2026-09-19T08:45:00Z
+org-demo-kenya,POS-TERMINAL-14,device,production,Operations,10.10.0.70,pos-terminal-14.local,medium,monitored,true,60,"{retail,pos,device}",2026-09-19T08:50:00Z
+org-demo-kenya,VPN-GATEWAY-05,server,production,Security,10.10.0.25,vpn-gateway-05.local,critical,monitored,true,60,"{vpn,edge,critical}",2026-09-19T08:55:00Z

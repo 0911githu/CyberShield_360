@@ -1,0 +1,5 @@
+org_id,name,cidr,authorised,created_at
+org-demo-kenya,Head Office LAN,10.10.0.0/24,true,2026-09-19T08:00:00Z
+org-demo-kenya,Guest Wi-Fi,10.10.10.0/24,false,2026-09-19T08:00:00Z
+org-demo-kenya,Server VLAN,10.10.20.0/24,true,2026-09-19T08:00:00Z
+org-demo-kenya,Finance Segment,10.10.30.0/24,true,2026-09-19T08:00:00Z
